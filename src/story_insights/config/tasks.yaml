@@ -1,0 +1,11 @@
+data_analysis_task:
+  description: >
+    Analyze the provided dataset to identify any anomalies, variances, or correlations and give the Insights which can be used for making Business decision.  
+    Ensure your findings are precise and actionable, with the goal of uncovering hidden insights.
+  expected_output: >
+    A detailed report containing:
+    - A summary of identified anomalies, variances, and correlations.
+    - Key findings with potential implications for the business.
+    - Recommendations based on the analysis.
+    - Insights with Actionalble steps
+  agent: data_analyst_agent

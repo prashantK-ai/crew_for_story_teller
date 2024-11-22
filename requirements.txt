@@ -1,0 +1,6 @@
+# cfenv
+# streamlit
+# plotly
+cfenv
+crewai
+crewai-tools
